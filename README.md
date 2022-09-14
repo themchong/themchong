@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning dbt
-- 📫 How to reach me: https://www.linkedin.com/in/m-chong/
+- 📫 You can contact me on [LinkedIn](https://www.linkedin.com/in/m-chong/)
 - 😄 Pronouns: she/her
 
 <!--
